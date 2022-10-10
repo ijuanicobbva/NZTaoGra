@@ -1,2 +1,2 @@
 # NZToGra
-Este es un repositogro con los notebooks de NZTaGra
+Este es un repositogro con los notebooks de NZTaoGra
