@@ -1,3 +1,3 @@
 # NZToGra
 
-Este es un repositogro con los notebooks de NZTaoGra en su version **v0.2.53**
+Este es un repositogro con los notebooks de NZTaoGra en su version **v0.2.54**
